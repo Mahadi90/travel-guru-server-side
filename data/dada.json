@@ -1,0 +1,22 @@
+[
+      {
+        "title": "Cox's Bazar",
+        "id": "001",
+        "description": "Cox's Bazar is a town on the southeast coast of Bangladesh. It's known for its very long, sandy beachfront, stretching from Sea Beach in the north to Kolatoli Beach in the south.",
+        "img": "https://example.com/images/coxsbazar.jpg"
+      },
+      {
+        "title": "Srimangal",
+        "id": "002",
+        "description": "Srimangal is a city in the northeastern part of Bangladesh. It's known for its tea gardens, forests, and wildlife.",
+        "img": "https://example.com/images/srimangal.jpg"
+      },
+      {
+        "title": "Sundarbans",
+        "id": "003",
+        "description": "The Sundarbans is a mangrove forest in the delta of the Ganges, Brahmaputra, and Meghna rivers on the Bay of Bengal. It is home to the Bengal tiger, saltwater crocodile, and other wildlife.",
+        "img": "https://example.com/images/sundarbans.jpg"
+      }
+    ]
+
+  
