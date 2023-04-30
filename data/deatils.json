@@ -1,0 +1,24 @@
+ [
+        {   "id" : 1213243,
+            "title": "Deluxe Double Room",
+            "description": "This spacious room features a comfortable king-sized bed, a work desk, and a seating area with a sofa. The room also has a private balcony with views of the city.",
+            "price": 200.00,
+            "rating": 4.5,
+            "img" : "https://media.istockphoto.com/id/806742592/photo/luxury-interior-design-in-bedroom-of-pool-villa-with-cozy-king-bed-bedroom-with-high-raised.jpg?s=1024x1024&w=is&k=20&c=t42vO-MxPUbK-vSEGkZq2013JkOuMpgKMeOv8U-m_40="
+        },
+        {    "id" : 12134786,
+            "title": "Superior Suite",
+            "description": "This luxurious suite features a separate living room and bedroom, a king-sized bed, a work desk, and a private balcony with stunning views of the ocean. The suite also includes a Jacuzzi tub in the bathroom.",
+            "price": 400.00,
+            "rating": 5.0,
+            "img": "https://media.istockphoto.com/id/121162001/photo/nice-apartment-refitted-bedroom-with-a-double-bed-and-lamps.jpg?s=1024x1024&w=is&k=20&c=yGWOGpdlbXXNvF9cmpJt9jkEYgVt7G9NPjCyEoCNcuk="
+        },
+        {   
+            "id" : 1498740,
+            "title": "Standard Room",
+            "description": "This cozy room features a comfortable queen-sized bed, a work desk, and a private bathroom. The room also includes a flat-screen TV and free Wi-Fi.",
+            "price": 100.00,
+            "rating": 3.8,
+            "img" : "https://media.istockphoto.com/id/1175212377/photo/modern-bedroom-romantic-view-of-the-private-garden.jpg?s=1024x1024&w=is&k=20&c=zqDm--orljpHtqJQiBj8ryV8_Bae5v5oUffsz49nNn4="
+        }
+    ]
